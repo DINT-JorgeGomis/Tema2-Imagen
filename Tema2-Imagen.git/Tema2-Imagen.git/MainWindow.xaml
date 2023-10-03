@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Tema2_Imagen.git"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Imagen" Height="450" Width="800">
     <Grid>
         <Label Content="Mostrador de imagen" HorizontalAlignment="Left" Margin="10,27,0,0" VerticalAlignment="Top" Height="76" Width="568" FontFamily="Arial Black" FontSize="48"/>
         <RadioButton Content="Alta" HorizontalAlignment="Left" Margin="32,171,0,0" VerticalAlignment="Top" GroupName="Opacidad" Height="44" Width="158" FontSize="20" VerticalContentAlignment="Center" FontFamily="Arial Narrow" Checked="OpacidadChecked"/>
